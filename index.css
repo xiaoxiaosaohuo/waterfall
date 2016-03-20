@@ -1,0 +1,19 @@
+*{
+	margin:0;
+	padding:0;
+
+}
+.wrapper{
+	position: relative;
+	float: left;
+}
+.img{
+	padding:10px;
+	border:1px solid #eee;
+	border-radius: 5px;
+	box-shadow:0 0 5px #ccc;
+}
+.img img{
+	width:200px;
+	height: auto;
+}
